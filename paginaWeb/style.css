@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.parrafo{
+    color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.contenedor{
+    background-color: white;
+    padding: 10px;
+    border: 2px;
+}
