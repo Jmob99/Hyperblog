@@ -23,22 +23,22 @@
     border: 2px;
 }
 
-.texto{
-    color: orange;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: medium;
-
-}
-
-#boton{
-    color: black;
-    border: 5em;
-    background-color: darkgreen;
-    padding: 4px;
-}
-
-.bloque_2{
+.id2 {
+    color: darkmagenta;
     text-align: center;
-    padding: 5px;
-    background-color: rgb(102, 89, 133);
+
 }
+
+.header{
+    margin: auto;
+    padding: 5 px;
+    background-color: blanchedalmond;
+    border: 5px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+    color: brown;
+}
+
