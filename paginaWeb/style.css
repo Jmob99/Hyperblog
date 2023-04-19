@@ -11,7 +11,12 @@
     font-size: medium;
     text-align: center;
 }
-
+.parrafo2{
+    color: lawngreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-small;
+    text-align: center;
+}
 .contenedor{
     background-color: white;
     padding: 10px;
