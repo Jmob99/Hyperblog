@@ -22,3 +22,23 @@
     padding: 10px;
     border: 2px;
 }
+
+.texto{
+    color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+
+}
+
+#boton{
+    color: black;
+    border: 5em;
+    background-color: darkgreen;
+    padding: 4px;
+}
+
+.bloque_2{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(102, 89, 133);
+}
