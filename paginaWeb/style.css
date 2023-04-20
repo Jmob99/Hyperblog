@@ -1,0 +1,44 @@
+.titulo{
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.parrafo{
+    color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+.parrafo2{
+    color: lawngreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-small;
+    text-align: center;
+}
+.contenedor{
+    background-color: white;
+    padding: 10px;
+    border: 2px;
+}
+
+.id2 {
+    color: darkmagenta;
+    text-align: center;
+
+}
+
+.header{
+    margin: auto;
+    padding: 5 px;
+    background-color: blanchedalmond;
+    border: 5px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+    color: brown;
+}
+
